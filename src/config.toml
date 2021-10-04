@@ -8,7 +8,7 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = []
+disableLanguages        = ["es", "nl", "fr", "ja", "js", "pl", "pt", "zh-cn", "zh-tw"]
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -32,7 +32,7 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["email"]
+  socialShare           = []
   hideEmptyStats        = false
 
   [params.meta]
@@ -45,16 +45,16 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Hayley"
+    navbarTitle         = "Ms. Hayley Briar"
     dynamicTitles       = true
     searchMenu          = true
-    shareMenu           = true
-    languageMenu        = true
+    shareMenu           = false
+    languageMenu        = false
 
   [params.intro]
     header                = "Hayley Briar"
-    paragraph             = "Professional and Ethical"
-    rssIntro              = true
+    paragraph             = "Professional and Ethical Educator"
+    rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
@@ -72,7 +72,7 @@ disableLanguages        = []
     categoriesByCount   = true
 
   [params.footer]
-    rssFooter           = true
+    rssFooter           = false
     socialFooter        = true
 
   [params.utterances]
@@ -84,7 +84,7 @@ disableLanguages        = []
     theme               = "github-light"
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""
@@ -112,25 +112,18 @@ disableLanguages        = []
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
-    identifier        = "blog"
-    url               = "blog"
-    pre               = "<i class='far fa-newspaper'></i>"
+    name              = "Resume"
+    identifier        = "resume"
+    url               = "resume/hayleybriar.pdf"
+    pre               = "<i class='far fa-id-badge'></i>"
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
+    name              = "Topics"
+    identifier        = "topics"
     url               = "categories"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
-
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "contact"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
 
 [Languages]
 
@@ -142,7 +135,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = ""
+  github                = "hayleybriar"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
