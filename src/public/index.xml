@@ -6,41 +6,61 @@
     <description>Recent content on Hayley Briar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hayleybriar.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hayleybriar.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guide de syntaxe de Markdown</title>
-      <link>https://hayleybriar.com/blog/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://hayleybriar.com/about/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hayleybriar.com/blog/markdown-syntax.fr/</guid>
-      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
+      <guid>https://hayleybriar.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Hayley&amp;hellip; blah blah
+TODO (all optional&amp;hellip; just some ideas)
+ What you wanna say about yourself Relevant images, snippets, whatever Links to other things Contact info (email)  </description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://hayleybriar.com/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Autobiography</title>
+      <link>https://hayleybriar.com/blog/autobiography/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hayleybriar.com/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://hayleybriar.com/blog/autobiography/</guid>
+      <description>Hayley Briar is&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Contenu riche</title>
-      <link>https://hayleybriar.com/blog/rich-content.fr/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Professional Disposition Statement</title>
+      <link>https://hayleybriar.com/blog/professional-disposition/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hayleybriar.com/blog/rich-content.fr/</guid>
-      <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
+      <guid>https://hayleybriar.com/blog/professional-disposition/</guid>
+      <description>Reflecting on my own growth and time spent working in various educational settings for the last decade, I have been able to build the foundation necessary to become a thoughtful, attentive, and meaningful educator. Working with students and their families is not only an important profession for me, it is my passion in this life. I understand the responsibility I have to the students I work with in providing them the best education possible which means that I myself must always continue to learn and grow in my field.</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://hayleybriar.com/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>STEP Template</title>
+      <link>https://hayleybriar.com/blog/step-template/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hayleybriar.com/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>https://hayleybriar.com/blog/step-template/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Classroom Letter</title>
+      <link>https://hayleybriar.com/blog/class-mgmt-letter/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/blog/class-mgmt-letter/</guid>
+      <description>Download as PDF    </description>
+    </item>
+    
+    <item>
+      <title>Classroom Strategies for the Inclusive Classroom</title>
+      <link>https://hayleybriar.com/blog/class-mgmt-strategies/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/blog/class-mgmt-strategies/</guid>
+      <description>Download as PDF                 References  8 indicators of inclusive classrooms. (2018, Nov. 7). Brooks Publishing Co.  Retrieved from: https://blog.brookespublishing.com/8-indicators-of-inclusive-classrooms-the-gift-box-giveaway-winner   Emerson, L. (2013, June). Cooperative learning in inclusive classrooms: students who work together, learn together. William &amp;amp; Mary School of Education.  Retrieved from: https://education.wm.edu/centers/ttac/resources/articles/inclusion/cooperativelearning   Gould, E. (2010, Dec.) Strategies for teaching social skills in the school environment.</description>
     </item>
     
     <item>
@@ -51,45 +71,6 @@
       <guid>https://hayleybriar.com/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://hayleybriar.com/blog/emoji-support.fr/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/blog/emoji-support.fr/</guid>
-      <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
- La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
-Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
- 🙈  : see_no_evil:   🙉  : hear_no_evil:    : speak_no_evil:   Le [aide-mémoire Emoji] (http://www.</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://hayleybriar.com/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>À propos de</title>
-      <link>https://hayleybriar.com/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/about/</guid>
-      <description>Écrit dans Go, Hugo est un générateur de site statique open source disponible sous la [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo prend en charge les types de fichiers de données TOML, YAML et JSON , Markdown et fichiers de contenu HTML et utilise des shortcodes pour ajouter du contenu riche. Les autres fonctionnalités notables sont les taxonomies, le mode multilingue, le traitement d&amp;rsquo;image, les formats de sortie personnalisés, la minification HTML / CSS / JS et la prise en charge des flux de travail Sass SCSS.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://hayleybriar.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/contact/</guid>
-      <description></description>
     </item>
     
   </channel>

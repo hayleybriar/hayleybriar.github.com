@@ -6,58 +6,85 @@
     <description>Recent content in Tags on Hayley Briar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hayleybriar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hayleybriar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>css</title>
-      <link>https://hayleybriar.com/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>about</title>
+      <link>https://hayleybriar.com/tags/about/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hayleybriar.com/tags/css/</guid>
+      <guid>https://hayleybriar.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://hayleybriar.com/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>biography</title>
+      <link>https://hayleybriar.com/tags/biography/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://hayleybriar.com/tags/html/</guid>
+      <guid>https://hayleybriar.com/tags/biography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disposition</title>
+      <link>https://hayleybriar.com/tags/disposition/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/tags/disposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://hayleybriar.com/tags/education/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEP</title>
+      <link>https://hayleybriar.com/tags/step/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/tags/step/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classroom</title>
+      <link>https://hayleybriar.com/tags/classroom/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/tags/classroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>letter</title>
+      <link>https://hayleybriar.com/tags/letter/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/tags/letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strategy</title>
+      <link>https://hayleybriar.com/tags/strategy/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hayleybriar.com/tags/strategy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
       <link>https://hayleybriar.com/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hayleybriar.com/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://hayleybriar.com/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://hayleybriar.com/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://hayleybriar.com/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
@@ -67,15 +94,6 @@
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hayleybriar.com/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://hayleybriar.com/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hayleybriar.com/tags/emoji/</guid>
       <description></description>
     </item>
     
