@@ -1,7 +1,7 @@
 +++
 title = "Professional Disposition Statement"
 description = "Reflecting on my own growth and time spent working in various educational settings for the last decade, I have been..."
-author = "Hayley Briar"
+author = "Ms. Briar"
 date = "2021-08-22"
 tags = ["disposition"]
 categories = ["statements", "disposition"]

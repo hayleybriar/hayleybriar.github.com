@@ -1,7 +1,7 @@
 +++
 title = "Autobiography"
 description = "Who is Hayley Briar?"
-author = "Hayley Briar"
+author = "Ms. Briar"
 date = "2021-08-22"
 tags = ["about", "biography"]
 [[images]]
