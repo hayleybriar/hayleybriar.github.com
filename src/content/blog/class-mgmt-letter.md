@@ -6,9 +6,9 @@ date = "2021-08-16"
 tags = ["letter", "classroom"]
 categories = ["letter"]
 [[images]]
-  src = "img/main/gators.png"
+  src = "img/main/jackson_campus.png"
   alt = "Gators"
-  stretch = "Horizontal"
+  stretch = "vertical"
 +++
 
 <div><a href="/docs/Classroom_Management_Letter_Hayley_Briar.pdf" target="_blank" class="fa fa-file"> Download as PDF</a></div>
