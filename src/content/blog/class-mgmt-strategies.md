@@ -1,5 +1,5 @@
 +++
-title = "Classroom Strategies for the Inclusive Classroom"
+title = "Strategies for the Inclusive Classroom"
 description = "Expectations communicate how students treat each other and themselves. Procedures and rules communicate how students operate in the classroom."
 author = "Hayley Briar"
 date = "2021-03-07"
