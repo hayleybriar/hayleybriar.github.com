@@ -1,7 +1,7 @@
 +++
 title = "Classroom Letter"
 description = "Dear Parents of Jackson Elementary Gators"
-author = "Hayley Briar"
+author = "Ms. Briar"
 date = "2021-08-16"
 tags = ["letter", "classroom"]
 categories = ["letter"]

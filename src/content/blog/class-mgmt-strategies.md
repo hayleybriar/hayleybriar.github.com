@@ -1,7 +1,7 @@
 +++
 title = "Strategies for the Inclusive Classroom"
 description = "Expectations communicate how students treat each other and themselves. Procedures and rules communicate how students operate in the classroom."
-author = "Hayley Briar"
+author = "Ms. Briar"
 date = "2021-03-07"
 tags = ["strategy", "classroom"]
 categories = ["classroom"]
