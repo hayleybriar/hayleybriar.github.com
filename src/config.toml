@@ -60,7 +60,7 @@ disableLanguages        = ["es", "nl", "fr", "ja", "js", "pl", "pt", "zh-cn", "z
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/profile.png"
       shape               = "circle"
       width               = ""
       alt                 = "Hayley Briar Profile Image"

@@ -6,10 +6,11 @@ date = "2021-08-22"
 tags = ["STEP", "education"]
 categories = ["education", "templates"]
 [[images]]
-  src = "img/main/success.png"
+  src = "img/main/board.png"
   alt = "STEP"
   stretch = "Vertical"
 +++
 
-TODO
+Please use the link below to download the STEP Template.
 
+<div><a href="/docs/STEP_Standards_Hayley_Briar.pdf" target="_blank" class="fa fa-file"> Download as PDF</a></div>
